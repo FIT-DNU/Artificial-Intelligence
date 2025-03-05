@@ -69,7 +69,7 @@ class NeuralNetwork:
 
 def main():
     # Load dataset
-    data_path = 'D:/MinhPhuong/ĐH Đại Nam/Nội dung giảng dạy/Bải giảng/Trí tuệ nhân tạo/Labs/nonLinear_data.npy'
+    data_path = 'nonLinear_data.npy'
     data = np.load(data_path, allow_pickle=True).item()
     X, y = data['X'], data['labels']
 
