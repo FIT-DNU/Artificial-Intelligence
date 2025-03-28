@@ -52,3 +52,7 @@ Một số project sinh viên đã thực hiện:
  8. ÁP DỤNG THUẬT TOÁN A* ĐỂ TÌM ĐƯỜNG ĐI TỐI ƯU TRONG TRÒ CHƠI ĐUA XE 2D
     - ### [Link github: https://github.com/xanhSM/gameduaxe2d]
     - ### [Link github: https://github.com/hoapham12345/Chuong-Trinh-Tro-Choi-Dua-Xe.git]
+ 9. XÂY DỰNG MÔ HÌNH MẠNG NEURON ĐỂ DỰ ĐOÁN KHẢ NĂNG KHÁCH HÀNG NGƯNG SỬ DỤNG DỊCH VỤ NGÂN HÀNG
+    - ### [Link github: https://github.com/Thuyydungz/Xay-dung-mo-hinh-mang-neuron-du-doan-kha-nang-khach-hang-ngung-su-dung-dich-vu-ngan-hang.git]
+ 10. XÂY DỰNG HỆ THỐNG AI BẰNG THUẬT TOÁN DI TRUYỀN (GA) ĐỂ TỐI ƯU HÓA CHIẾN LƯỢC CHƠI MARIO 
+    - ### [Link github: https://github.com/DatQuang2111/Mario-GA.git]
