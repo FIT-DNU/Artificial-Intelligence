@@ -49,10 +49,13 @@ Một số project sinh viên đã thực hiện:
     - ### [Link github: https://github.com/Hungyeuemm/GA_Trading.git]
     - ### [Link github: https://github.com/dinhvanthuong1708/de-tai-4-nhuom-11/tree/main]
     - ### [Link github: https://github.com/nguyenvanminh24122005/dubaithitruongtaichinh.git]
+    - ### [Link github: https://github.com/nguyenvu005/du-doan-thi-truong-tai-chinh.git]
  5. XÂY DỰNG TRÒ CHƠI RẮN SĂN MỒI VỚI CÁC CHƯỚNG NGẠI VẬT DI ĐỘNG
+    - ### [Link github: https://github.com/MeoBlackk/Xay-dung-tro-choi-ran-san-moi.git]
     - ### [Link github: https://github.com/Dumbone05/Xay_Dung_Tro_Choi_Ran_San_Moi_Voi_Cac_Chuong_Ngai_Vat_Di_Dong]
  6. XÂY DỰNG MÔ HÌNH ANN ĐỂ DỰ ĐOÁN KHẢ NĂNG NHÂN VIÊN NGHỈ VIỆC
     - ### [Link github: https://github.com/tranvantuananh/TTNhanTao.git]
+    - ### [Link github: https://github.com/minhThongdzai3011/AI_tinh_ti_le_that_nghiep.git.io]
     - ### [Link github: https://github.com/vanquyen2005/X-y-d-ng-m-h-nh-ANN-ph-n-lo-i-t-nh-tr-ng-th-t-nghi-p-]
     - ### [Link github: https://github.com/nguyenminhtuan1604/phantichtinhtrangthatnghiep.git]
  7. XÂY DỰNG MÔ HÌNH MẠNG NEURON ĐỂ DỰ ĐOÁN GIÁ NHÀ
