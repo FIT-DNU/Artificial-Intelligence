@@ -44,7 +44,7 @@ Một số project sinh viên đã thực hiện:
     - ### [Link github: https://github.com/Hungyeuemm/GA_Trading.git]
  5. XÂY DỰNG TRÒ CHƠI RẮN SĂN MỒI VỚI CÁC CHƯỚNG NGẠI VẬT DI ĐỘNG
     - ### [Link github: https://github.com/Dumbone05/Xay_Dung_Tro_Choi_Ran_San_Moi_Voi_Cac_Chuong_Ngai_Vat_Di_Dong]
- 6. XÂY DỰNG MÔ HÌNH ANN PHÂN LOẠI TÌNH TRẠNG THẤT NGHIỆP
+ 6. XÂY DỰNG MÔ HÌNH ANN ĐỂ DỰ ĐOÁN KHẢ NĂNG NHÂN VIÊN NGHỈ VIỆC
     - ### [Link github: https://github.com/vanquyen2005/X-y-d-ng-m-h-nh-ANN-ph-n-lo-i-t-nh-tr-ng-th-t-nghi-p-]
  7. XÂY DỰNG MÔ HÌNH MẠNG NEURON ĐỂ DỰ ĐOÁN GIÁ NHÀ
     - ### [Link github: https://github.com/Vu-Tuyet-Anh/xay-dung-mo-hinh-mang-neuron-de-du-doan-gia-nha.git]
