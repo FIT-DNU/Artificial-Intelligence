@@ -40,3 +40,6 @@ Một số project sinh viên đã thực hiện:
     - ### [Link github: https://github.com/WuagThag/trochoisapxepvong]
  3. XÂY DỰNG MÔ HÌNH DỰ ĐOÁN BỆNH TIM BẰNG MẠNG NƠ RON
     - ### [Link github: https://github.com/edfv34/xay-dung-mo-hinh-du-doan-benh-tim-bang-mang-no-ron.git]
+ 4. XÂY DỰNG MÔ HÌNH MẠNG NEURON ĐỂ DỰ ĐOÁN NGƯỜI MẮC BỆNH TIM
+    - ### [Link github: https://github.com/Duoc2205/Heart_Disease.git]
+ 5. 
