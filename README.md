@@ -54,6 +54,7 @@ Một số project sinh viên đã thực hiện:
  7. XÂY DỰNG MÔ HÌNH MẠNG NEURON ĐỂ DỰ ĐOÁN GIÁ NHÀ
     - ### [Link github: https://github.com/Vu-Tuyet-Anh/xay-dung-mo-hinh-mang-neuron-de-du-doan-gia-nha.git]
     - ### [Link github: https://github.com/Ninh2708/AI-BTL.git]
+    - ### [Link github: https://github.com/khanhshy/du-doan-gia-nha-AI.git]
  8. ÁP DỤNG THUẬT TOÁN A* ĐỂ TÌM ĐƯỜNG ĐI TỐI ƯU TRONG TRÒ CHƠI ĐUA XE 2D
     - ### [Link github: https://github.com/xanhSM/gameduaxe2d]
     - ### [Link github: https://github.com/hoapham12345/Chuong-Trinh-Tro-Choi-Dua-Xe.git]
