@@ -38,9 +38,8 @@ Một số project sinh viên đã thực hiện:
     - ### [Link github: https://github.com/HaTuanHuy/Toiuuhoasapxepchongoitieccuoi]
  2. ÁP DỤNG THUẬT TOÁN A* ĐỂ LẬP TRÌNH CHƯƠNG TRÌNH TRÒ CHƠI SẮP XẾP VÒNG
     - ### [Link github: https://github.com/WuagThag/trochoisapxepvong]
- 3. XÂY DỰNG MÔ HÌNH DỰ ĐOÁN BỆNH TIM BẰNG MẠNG NƠ RON
+ 3. XÂY DỰNG MÔ HÌNH DỰ ĐOÁN BỆNH TIM BẰNG MẠNG NEURON
     - ### [Link github: https://github.com/edfv34/xay-dung-mo-hinh-du-doan-benh-tim-bang-mang-no-ron.git]
- 4. XÂY DỰNG MÔ HÌNH MẠNG NEURON ĐỂ DỰ ĐOÁN NGƯỜI MẮC BỆNH TIM
     - ### [Link github: https://github.com/Duoc2205/Heart_Disease.git]
  5. ỨNG DỤNG GIẢI THUẬT DI TRUYỀN DỰ ĐOÁN THỊ TRƯỜNG TÀI CHÍNH
     - ### [Link github: https://github.com/Hungyeuemm/GA_Trading.git]
