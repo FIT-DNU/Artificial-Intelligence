@@ -31,3 +31,8 @@
 Một số project sinh viên đã thực hiện:
 - #### [Khoá 17]()(Coming soon)
 - #### [Khoá 18]() (Coming soon)
+
+# Sản phẩm đã được nghiên cứu và phát triển bởi các nhóm sinh viên
+Lớp CNTT17-04
+ 1. ỨNG DỤNG GIẢI THUẬT DI TRUYỀN TRONG TỐI ƯU SẮP XẾP CHỖ NGỒI TIỆC CƯỚI
+    - ### [Link github: https://github.com/HaTuanHuy/Toiuuhoasapxepchongoitieccuoi] ()(Coming soon)
