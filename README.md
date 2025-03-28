@@ -43,6 +43,7 @@ Một số project sinh viên đã thực hiện:
     - ### [Link github: https://github.com/edfv34/xay-dung-mo-hinh-du-doan-benh-tim-bang-mang-no-ron.git]
     - ### [Link github: https://github.com/Duoc2205/Heart_Disease.git]
     - ### [Link github: https://github.com/nguyenquangduy0806/du-doan-nguoi-do-co-mac-benh-tim-hay-khong.git]
+    - ### [Link github: https://github.com/dotuananh19/MoHinhMangNeuronDuDoanBenhTim.git]
  4. ỨNG DỤNG GIẢI THUẬT DI TRUYỀN DỰ ĐOÁN THỊ TRƯỜNG TÀI CHÍNH
     - ### [Link github: https://github.com/Hungyeuemm/GA_Trading.git]
  5. XÂY DỰNG TRÒ CHƠI RẮN SĂN MỒI VỚI CÁC CHƯỚNG NGẠI VẬT DI ĐỘNG
