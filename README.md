@@ -47,4 +47,6 @@ Một số project sinh viên đã thực hiện:
     - ### [Link github: https://github.com/hoapham12345/Chuong-Trinh-Tro-Choi-Dua-Xe.git]
  6. XÂY DỰNG MÔ HÌNH ANN PHÂN LOẠI TÌNH TRẠNG THẤT NGHIỆP
     - ### [Link github: https://github.com/vanquyen2005/X-y-d-ng-m-h-nh-ANN-ph-n-lo-i-t-nh-tr-ng-th-t-nghi-p-]
- 7. 
+ 7. XÂY DỰNG MÔ HÌNH MẠNG NEURON ĐỂ DỰ ĐOÁN GIÁ NHÀ
+    - ### [Link github: https://github.com/Vu-Tuyet-Anh/xay-dung-mo-hinh-mang-neuron-de-du-doan-gia-nha.git]
+ 8. 
