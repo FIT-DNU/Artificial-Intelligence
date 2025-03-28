@@ -44,3 +44,6 @@ Một số project sinh viên đã thực hiện:
     - ### [Link github: https://github.com/Duoc2205/Heart_Disease.git]
  5. ỨNG DỤNG GIẢI THUẬT DI TRUYỀN DỰ ĐOÁN THỊ TRƯỜNG TÀI CHÍNH
     - ### [Link github: https://github.com/Hungyeuemm/GA_Trading.git]
+ 6. XÂY DỰNG TRÒ CHƠI RẮN SĂN MỒI VỚI CÁC CHƯỚNG NGẠI VẬT DI ĐỘNG
+    - ### [Link github: https://github.com/Dumbone05/Xay_Dung_Tro_Choi_Ran_San_Moi_Voi_Cac_Chuong_Ngai_Vat_Di_Dong]
+ 7. 
