@@ -50,6 +50,7 @@ Một số project sinh viên đã thực hiện:
  5. XÂY DỰNG TRÒ CHƠI RẮN SĂN MỒI VỚI CÁC CHƯỚNG NGẠI VẬT DI ĐỘNG
     - ### [Link github: https://github.com/Dumbone05/Xay_Dung_Tro_Choi_Ran_San_Moi_Voi_Cac_Chuong_Ngai_Vat_Di_Dong]
  6. XÂY DỰNG MÔ HÌNH ANN ĐỂ DỰ ĐOÁN KHẢ NĂNG NHÂN VIÊN NGHỈ VIỆC
+    - ### [Link github: https://github.com/tranvantuananh/TTNhanTao.git]
     - ### [Link github: https://github.com/vanquyen2005/X-y-d-ng-m-h-nh-ANN-ph-n-lo-i-t-nh-tr-ng-th-t-nghi-p-]
     - ### [Link github: https://github.com/nguyenminhtuan1604/phantichtinhtrangthatnghiep.git]
  7. XÂY DỰNG MÔ HÌNH MẠNG NEURON ĐỂ DỰ ĐOÁN GIÁ NHÀ
