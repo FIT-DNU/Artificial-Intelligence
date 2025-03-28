@@ -47,6 +47,8 @@ Một số project sinh viên đã thực hiện:
     - ### [Link github: https://github.com/dotuananh19/MoHinhMangNeuronDuDoanBenhTim.git]
  4. ỨNG DỤNG GIẢI THUẬT DI TRUYỀN DỰ ĐOÁN THỊ TRƯỜNG TÀI CHÍNH
     - ### [Link github: https://github.com/Hungyeuemm/GA_Trading.git]
+    - ### [Link github: https://github.com/dinhvanthuong1708/de-tai-4-nhuom-11/tree/main]
+    - ### [Link github: https://github.com/nguyenvanminh24122005/dubaithitruongtaichinh.git]
  5. XÂY DỰNG TRÒ CHƠI RẮN SĂN MỒI VỚI CÁC CHƯỚNG NGẠI VẬT DI ĐỘNG
     - ### [Link github: https://github.com/Dumbone05/Xay_Dung_Tro_Choi_Ran_San_Moi_Voi_Cac_Chuong_Ngai_Vat_Di_Dong]
  6. XÂY DỰNG MÔ HÌNH ANN ĐỂ DỰ ĐOÁN KHẢ NĂNG NHÂN VIÊN NGHỈ VIỆC
@@ -59,6 +61,7 @@ Một số project sinh viên đã thực hiện:
     - ### [Link github: https://github.com/khanhshy/du-doan-gia-nha-AI.git]
  8. ÁP DỤNG THUẬT TOÁN A* ĐỂ TÌM ĐƯỜNG ĐI TỐI ƯU TRONG TRÒ CHƠI ĐUA XE 2D
     - ### [Link github: https://github.com/xanhSM/gameduaxe2d]
+    - ### [Link github: https://github.com/LeThuong25/Chuong-trinh-thuat-toan-dua-xe.git]
     - ### [Link github: https://github.com/hoapham12345/Chuong-Trinh-Tro-Choi-Dua-Xe.git]
     - ### [Link github: https://github.com/hhpncNam/Chuong-Trinh-Tro-Choi-Xe.git]
  9. XÂY DỰNG HỆ THỐNG AI BẰNG THUẬT TOÁN DI TRUYỀN (GA) ĐỂ TỐI ƯU HÓA CHIẾN LƯỢC CHƠI MARIO
@@ -67,3 +70,4 @@ Một số project sinh viên đã thực hiện:
     - ### [Link github: https://github.com/Thuyydungz/Xay-dung-mo-hinh-mang-neuron-du-doan-kha-nang-khach-hang-ngung-su-dung-dich-vu-ngan-hang.git]
  1. XÂY DỰNG CHƯƠNG TRÌNH TẠO LỊCH HỌC TỰ ĐỘNG BẰNG THUẬT TOÁN DI TRUYỀN
     - ### [Link github: https://github.com/DUC06012005/DeTai5.git]
+    - ### [Link github: https://github.com/giakietle0629/Taolichhoc.git]
