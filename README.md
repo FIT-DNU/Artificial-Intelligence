@@ -34,25 +34,25 @@ Một số project sinh viên đã thực hiện:
 
 # Sản phẩm đã được nghiên cứu và phát triển bởi các nhóm sinh viên
  1. ỨNG DỤNG GIẢI THUẬT DI TRUYỀN TRONG TỐI ƯU SẮP XẾP CHỖ NGỒI TIỆC CƯỚI
-    - ### [Link github: https://github.com/HaTuanHuy/Toiuuhoasapxepchongoitieccuoi]
+    - #### [Link github: https://github.com/HaTuanHuy/Toiuuhoasapxepchongoitieccuoi]
  2. ÁP DỤNG THUẬT TOÁN A* ĐỂ LẬP TRÌNH CHƯƠNG TRÌNH TRÒ CHƠI SẮP XẾP VÒNG
-    - ### [Link github: https://github.com/WuagThag/trochoisapxepvong]
+    - #### [Link github: https://github.com/WuagThag/trochoisapxepvong]
  3. XÂY DỰNG MÔ HÌNH DỰ ĐOÁN BỆNH TIM BẰNG MẠNG NEURON
-    - ### [Link github: https://github.com/edfv34/xay-dung-mo-hinh-du-doan-benh-tim-bang-mang-no-ron.git]
-    - ### [Link github: https://github.com/Duoc2205/Heart_Disease.git]
+    - #### [Link github: https://github.com/edfv34/xay-dung-mo-hinh-du-doan-benh-tim-bang-mang-no-ron.git]
+    - #### [Link github: https://github.com/Duoc2205/Heart_Disease.git]
  4. ỨNG DỤNG GIẢI THUẬT DI TRUYỀN DỰ ĐOÁN THỊ TRƯỜNG TÀI CHÍNH
-    - ### [Link github: https://github.com/Hungyeuemm/GA_Trading.git]
+    - #### [Link github: https://github.com/Hungyeuemm/GA_Trading.git]
  5. XÂY DỰNG TRÒ CHƠI RẮN SĂN MỒI VỚI CÁC CHƯỚNG NGẠI VẬT DI ĐỘNG
-    - ### [Link github: https://github.com/Dumbone05/Xay_Dung_Tro_Choi_Ran_San_Moi_Voi_Cac_Chuong_Ngai_Vat_Di_Dong]
+    - #### [Link github: https://github.com/Dumbone05/Xay_Dung_Tro_Choi_Ran_San_Moi_Voi_Cac_Chuong_Ngai_Vat_Di_Dong]
  6. XÂY DỰNG MÔ HÌNH ANN ĐỂ DỰ ĐOÁN KHẢ NĂNG NHÂN VIÊN NGHỈ VIỆC
-    - ### [Link github: https://github.com/vanquyen2005/X-y-d-ng-m-h-nh-ANN-ph-n-lo-i-t-nh-tr-ng-th-t-nghi-p-]
+    - #### [Link github: https://github.com/vanquyen2005/X-y-d-ng-m-h-nh-ANN-ph-n-lo-i-t-nh-tr-ng-th-t-nghi-p-]
  7. XÂY DỰNG MÔ HÌNH MẠNG NEURON ĐỂ DỰ ĐOÁN GIÁ NHÀ
-    - ### [Link github: https://github.com/Vu-Tuyet-Anh/xay-dung-mo-hinh-mang-neuron-de-du-doan-gia-nha.git]
-    - ### [Link github: https://github.com/Ninh2708/AI-BTL.git]
+    - #### [Link github: https://github.com/Vu-Tuyet-Anh/xay-dung-mo-hinh-mang-neuron-de-du-doan-gia-nha.git]
+    - #### [Link github: https://github.com/Ninh2708/AI-BTL.git]
  8. ÁP DỤNG THUẬT TOÁN A* ĐỂ TÌM ĐƯỜNG ĐI TỐI ƯU TRONG TRÒ CHƠI ĐUA XE 2D
-    - ### [Link github: https://github.com/xanhSM/gameduaxe2d]
-    - ### [Link github: https://github.com/hoapham12345/Chuong-Trinh-Tro-Choi-Dua-Xe.git]
+    - #### [Link github: https://github.com/xanhSM/gameduaxe2d]
+    - #### [Link github: https://github.com/hoapham12345/Chuong-Trinh-Tro-Choi-Dua-Xe.git]
  9. XÂY DỰNG HỆ THỐNG AI BẰNG THUẬT TOÁN DI TRUYỀN (GA) ĐỂ TỐI ƯU HÓA CHIẾN LƯỢC CHƠI MARIO
-    - ### [Link github: https://github.com/DatQuang2111/Mario-GA.git]
+    - #### [Link github: https://github.com/DatQuang2111/Mario-GA.git]
  10. XÂY DỰNG MÔ HÌNH MẠNG NEURON ĐỂ DỰ ĐOÁN KHẢ NĂNG KHÁCH HÀNG NGƯNG SỬ DỤNG DỊCH VỤ NGÂN HÀNG
-    - ### [Link github: https://github.com/Thuyydungz/Xay-dung-mo-hinh-mang-neuron-du-doan-kha-nang-khach-hang-ngung-su-dung-dich-vu-ngan-hang.git]
+    - #### [Link github: https://github.com/Thuyydungz/Xay-dung-mo-hinh-mang-neuron-du-doan-kha-nang-khach-hang-ngung-su-dung-dich-vu-ngan-hang.git]
