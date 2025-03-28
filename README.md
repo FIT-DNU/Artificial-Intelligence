@@ -36,3 +36,6 @@ Một số project sinh viên đã thực hiện:
 ## Lớp CNTT17-04
  1. ỨNG DỤNG GIẢI THUẬT DI TRUYỀN TRONG TỐI ƯU SẮP XẾP CHỖ NGỒI TIỆC CƯỚI
     - ### [Link github: https://github.com/HaTuanHuy/Toiuuhoasapxepchongoitieccuoi]
+ 2. ÁP DỤNG THUẬT TOÁN A* ĐỂ LẬP TRÌNH CHƯƠNG TRÌNH TRÒ CHƠI SẮP XẾP VÒNG
+    - ### [Link github: https://github.com/WuagThag/trochoisapxepvong]
+ 3. 
