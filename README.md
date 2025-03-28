@@ -37,6 +37,7 @@ Một số project sinh viên đã thực hiện:
     - ### [Link github: https://github.com/HaTuanHuy/Toiuuhoasapxepchongoitieccuoi]
  2. ÁP DỤNG THUẬT TOÁN A* ĐỂ LẬP TRÌNH CHƯƠNG TRÌNH TRÒ CHƠI SẮP XẾP VÒNG
     - ### [Link github: https://github.com/WuagThag/trochoisapxepvong]
+    - ### [Link github: https://github.com/hieubrend/TroChoiXepVong.git]
  3. XÂY DỰNG MÔ HÌNH DỰ ĐOÁN BỆNH TIM BẰNG MẠNG NEURON
     - ### [Link github: https://github.com/edfv34/xay-dung-mo-hinh-du-doan-benh-tim-bang-mang-no-ron.git]
     - ### [Link github: https://github.com/Duoc2205/Heart_Disease.git]
