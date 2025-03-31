@@ -86,3 +86,4 @@ Một số project sinh viên đã thực hiện:
  1. DỰ ĐOÁN KHÍ THẢI CO2 BẰNG MÔ HÌNH ANN
     - ### [Link github: https://github.com/DoanHoaiNa/DuDoanCO2.git]
     - ### [Link github: https://github.com/NguyenAnh20055/Du-Doan-Khi-CO2-.git]
+    - ### [Link github: https://github.com/nguyenquangduy772005/BTL-NguyenQuangDuy.git]
