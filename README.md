@@ -66,6 +66,7 @@ Một số project sinh viên đã thực hiện:
     - ### [Link github: https://github.com/Ninh2708/AI-BTL.git]
     - ### [Link github: https://github.com/khanhshy/du-doan-gia-nha-AI.git]
     - ### [Link github: https://github.com/VinhShindo/du_doan_gia_nha.git]
+    - ### [Link github: https://github.com/nguyenvietvietcntt1714/xay-dung-mo-hinh-mang-neuron-de-du-doan-gia-nha.git]
  8. ÁP DỤNG THUẬT TOÁN A* ĐỂ TÌM ĐƯỜNG ĐI TỐI ƯU TRONG TRÒ CHƠI ĐUA XE 2D
     - ### [Link github: https://github.com/xanhSM/gameduaxe2d]
     - ### [Link github: https://github.com/LeThuong25/Chuong-trinh-thuat-toan-dua-xe.git]
