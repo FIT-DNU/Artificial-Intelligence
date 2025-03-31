@@ -51,6 +51,7 @@ Một số project sinh viên đã thực hiện:
     - ### [Link github: https://github.com/dinhvanthuong1708/de-tai-4-nhuom-11/tree/main]
     - ### [Link github: https://github.com/nguyenvanminh24122005/dubaithitruongtaichinh.git]
     - ### [Link github: https://github.com/nguyenvu005/du-doan-thi-truong-tai-chinh.git]
+    - ### [Link github: https://github.com/NguyenVanToan12/Du-doan-thi-truong-tai-chinh.git]
  5. XÂY DỰNG TRÒ CHƠI RẮN SĂN MỒI VỚI CÁC CHƯỚNG NGẠI VẬT DI ĐỘNG
     - ### [Link github: https://github.com/MeoBlackk/Xay-dung-tro-choi-ran-san-moi.git]
     - ### [Link github: https://github.com/Dumbone05/Xay_Dung_Tro_Choi_Ran_San_Moi_Voi_Cac_Chuong_Ngai_Vat_Di_Dong]
