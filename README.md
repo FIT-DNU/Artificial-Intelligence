@@ -77,5 +77,6 @@ Một số project sinh viên đã thực hiện:
  1. XÂY DỰNG CHƯƠNG TRÌNH TẠO LỊCH HỌC TỰ ĐỘNG BẰNG THUẬT TOÁN DI TRUYỀN
     - ### [Link github: https://github.com/DUC06012005/DeTai5.git]
     - ### [Link github: https://github.com/giakietle0629/Taolichhoc.git]
+    - ### [Link github: https://github.com/DangQuocKhanh1714/DangQuocKhanh1714-Xay-dung-chuong-trinh-tao-lich-hoc-tu-dong-su-dung-thuat-toan-di-truyen-.git]
  1. DỰ ĐOÁN KHÍ THẢI CO2 BẰNG MÔ HÌNH ANN
     - ### [Link github: https://github.com/DoanHoaiNa/DuDoanCO2.git]
