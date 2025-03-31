@@ -77,6 +77,7 @@ Một số project sinh viên đã thực hiện:
     - ### [Link github: https://github.com/DatQuang2111/Mario-GA.git]
  1. XÂY DỰNG MÔ HÌNH MẠNG NEURON ĐỂ DỰ ĐOÁN KHẢ NĂNG KHÁCH HÀNG NGƯNG SỬ DỤNG DỊCH VỤ NGÂN HÀNG
     - ### [Link github: https://github.com/Thuyydungz/Xay-dung-mo-hinh-mang-neuron-du-doan-kha-nang-khach-hang-ngung-su-dung-dich-vu-ngan-hang.git]
+    - ### [Link github: https://github.com/thevinhdeptrai/xay-dung-mang-neuron.git]
  1. XÂY DỰNG CHƯƠNG TRÌNH TẠO LỊCH HỌC TỰ ĐỘNG BẰNG THUẬT TOÁN DI TRUYỀN
     - ### [Link github: https://github.com/DUC06012005/DeTai5.git]
     - ### [Link github: https://github.com/giakietle0629/Taolichhoc.git]
