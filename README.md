@@ -66,6 +66,7 @@ Một số project sinh viên đã thực hiện:
     - ### [Link github: https://github.com/minhThongdzai3011/AI_tinh_ti_le_that_nghiep.git.io]
     - ### [Link github: https://github.com/vanquyen2005/X-y-d-ng-m-h-nh-ANN-ph-n-lo-i-t-nh-tr-ng-th-t-nghi-p-]
     - ### [Link github: https://github.com/nguyenminhtuan1604/phantichtinhtrangthatnghiep.git]
+    - ### [Link github: https://github.com/ThanhTung-KHMT-1701/ThanhTung-Journey-to-the-West]
  7. XÂY DỰNG MÔ HÌNH MẠNG NEURON ĐỂ DỰ ĐOÁN GIÁ NHÀ
     - ### [Link github: https://github.com/Vu-Tuyet-Anh/xay-dung-mo-hinh-mang-neuron-de-du-doan-gia-nha.git]
     - ### [Link github: https://github.com/Ninh2708/AI-BTL.git]
