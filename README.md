@@ -40,6 +40,7 @@ Một số project sinh viên đã thực hiện:
     - ### [Link github: https://github.com/1quan6/sap-xep-cho-ngoi-dam-cuoi]
     - ### [Link github: https://github.com/hoangtrang205/Sap-Xep-Cho-Ngoi-Tiec-Cuoi.git]
     - ### [Link github: https://github.com/nguyenhai1701/AI]
+    - ### [Link github: https://github.com/Quang-Hai-KHMT-1701/BTL_Tri_Tue_Nhan_Tao.git]
  2. ÁP DỤNG THUẬT TOÁN A* ĐỂ LẬP TRÌNH CHƯƠNG TRÌNH TRÒ CHƠI SẮP XẾP VÒNG
     - ### [Link github: https://github.com/WuagThag/trochoisapxepvong]
     - ### [Link github: https://github.com/hieubrend/TroChoiXepVong.git]
