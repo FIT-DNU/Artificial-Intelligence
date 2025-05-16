@@ -51,7 +51,7 @@
 - #### CNTT 17-08
     | Tên đề tài             | Người thực hiện     | Source code     | Nổi bật     |
     | ---------------------- | --------------------| --------------- | ----------- |
-    | XÂY DỰNG CHƯƠNG TRÌNH TẠO LỊCH HỌC TỰ ĐỘNG | Nguyễn Trung Hiếu, Nguyễn Chí Vĩ, Nguyễn Tiến Đức| [:octocat:github](https://github.com/hieunguyen962005/BTL_NguyenTrungHieu_CNTT17_08.git)|
+    | CHƯƠNG TRÌNH TẠO LỊCH HỌC TỰ ĐỘNG | Nguyễn Trung Hiếu, Nguyễn Chí Vĩ, Nguyễn Tiến Đức| [:octocat:github](https://github.com/hieunguyen962005/BTL_NguyenTrungHieu_CNTT17_08.git)|
     | CHƯƠNG TRÌNH TRÒ CHƠI ĐUA XE| Nguyễn Trung Hiếu, Nguyễn Chí Vĩ, Nguyễn Tiến Đức| [:octocat:github](https://github.com/Hoanghai2510/Racinggame.git)|
     | DỰ ĐOÁN NGƯỜI CÓ MẮC BỆNH TIM HAY KHÔNG | Nguyễn Ngọc Hưng, Phạm Minh Hoàng, Nguyễn Quang Duy| [:octocat:github](https://github.com/PMHOANG1/du-doan-nguoi-do-co-mac-benh-tim-khong.git)|
     | PHÂN TÍCH TÌNH TRẠNG THẤT NGHIỆP| Phan Tự Nghiệp, Ngô Xuân Đào, Nguyễn Minh Tuân| [:octocat:github](https://github.com/nghiepct/tinh-trang-that-nghiep.git)|
@@ -66,46 +66,36 @@
     | DỰ ĐOÁN THỊ TRƯỜNG TÀI CHÍNH | Nguyễn Văn Minh, Nguyễn Minh Quân, Trịnh Minh Tuệ| [:octocat:github](https://github.com/daicntt1708/BTL_AI/blob/main/DE_7.py)|
     | XÂY DỰNG THỜI KHÓA BIỂU | Lê Đại Gia Kiệt, Nguyễn Đức Duy, Lê Đình Chiến| [:octocat:github](https://github.com/giakietle0629/Taolichhoc.git)|
 
-- #### CNTT 15-03
+- #### CNTT 17-04
     | Tên đề tài             | Người thực hiện     | Source code     | Nổi bật     |
     | ---------------------- | --------------------| --------------- | ----------- |
-    | Chấm công | Vũ Mạnh Quân, Nguyễn Xuân Quỳnh, Lê Xuân Đạt| [:octocat:github](https://github.com/Veirea/TTDN-15-03-N1.git)|
-    | Quản lý tài sản| Phạm Minh Tâm, Nguyễn Thanh Hải, Bùi Khánh Hòa| [:octocat:github](https://github.com/MinhTam2804/TTDN-15-03-N2)|
-    | Quản lý nhân sự | Nguyễn Hoài Nam, Giáp Thiên Thanh, Hoàng Anh Tú| [:octocat:github](https://github.com/nam0942901062/TTDN-15-03-N3)|
-    | Quản lý phòng họp, hội trường | Lê Minh Đức, Ngô Xuân Thảo, Phan Văn Sơn| [:octocat:github](https://github.com/MinDuc2003/TTDN-15-03-N4)|
-    | Quản lý khách hàng | Đào Ngọc Bình Thiên, Nguyễn Trần Tiến Dũng, Nguyễn Tiến Đạt| [:octocat:github](https://github.com/ThinDao/TTDN-15-03-N5)|*|
-    | Quản lý công việc | Hoàng Văn Đạt, Nguyễn Đức Bình, Nguyễn Hữu Thịnh| [:octocat:github](https://github.com/HDatz/TTDN-15-03-N6)|*|
-    | Quản lý dự án | Lê Khắc Hoàn, Dương Văn Môn, Khuất Quang Thái, Vũ Hoàng Chương| [:octocat:github](https://github.com/lehoan2608/TTDN-15-03-N7)|*|
-    | Quản lý văn bản | Đào Hồng Sơn Hoàng Quốc Hạnh Nguyễn Minh Đức| [:octocat:github](https://github.com/anhken123/TTDN-1503-N9)|
-    | Quản lý phòng họp, hội trường | Lê Ngọc Tú, Thiều Khánh Phú| [:octocat:github](https://github.com/PHUPHU2310/TTDN-15-03-N10)|
-    | Quản lý khách hàng | Nguyễn Duy Quang, Tráng A Hiếu, Trần Quốc Hưng| [:octocat:github](https://github.com/tranghieu/TTDN-15-03-N11)|
-    | Quản lý dự án | Trần Trường Phước, Dương Thị Hương Lan, Hoàng Văn Hiệp| [:octocat:github](https://github.com/Tran-Truong-Phuoc/TTDN-15-03-N12)|
-- #### CNTT 15-04
+    | SẮP XẾP CHỖ NGỒI TRONG TIỆC CƯỚI | Đỗ Hữu Hải, Hà Tuấn Huy, Vũ Hồng Sơn| [:octocat:github](https://github.com/Onichan-code/SapXepChoNgoiTiecCuoi.git)|
+    | TRÒ CHƠI ĐUA XE| Nguyễn Xuân Anh, Vũ Đức Nguyễn Chuẩn, Tăng Tất Cương| [:octocat:github](https://github.com/xanhSM/gameduaxe2d.git)|
+    | TRÒ CHƠI XẾP PHÒNG| Nguyễn Trường Thịnh, Đỗ Mạnh Cường, Nguyễn Quang Thắng| [:octocat:github](https://github.com/thinh3132005/BTLTrituenhantao)|
+    | KHÍ THẢI PHƯƠNG TIỆN | Lê Thị Bình, Lương Thị Thu Hương, Nguyễn Thị Thanh| [:octocat:github](https://github.com/LeThiBinh11022005/CO2_Emission_by-Vehicles.git)|
+    | DỰ ĐOÁN BỆNH TIM | Nguyễn Văn Hội, Nguyễn Mạnh Hùng, Trịnh Việt Đức| [:octocat:github](https://github.com/edfv34/xay-dung-mo-hinh-du-doan-benh-tim-bang-mang-no-ron.git)|*|
+    | DỰ ĐOÁN BỆNH TIM | Nguyễn Văn Được, Lê Tuấn Dũng, Trần Khắc Hồng| [:octocat:github](https://github.com/Duoc2205/Heart_Disease.git)|*|
+    | DỰ BÁO THỊ TRƯỜNG TÀI CHÍNH | Nguyễn Hữu Hưng, Nguyễn Đức Linh, Nguyễn Xuân Phúc| [:octocat:github](https://github.com/Hungyeuemm/GA_Trading.git)|*|
+    | PHÂN TÍCH TÌNH TRẠNG THẤT NGHIỆP | Võ Văn Quyền, Nguyễn Quốc Anh, Đỗ Quốc Anh| [:octocat:github](https://github.com/vanquyen2005/X-y-d-ng-m-h-nh-ANN-ph-n-lo-i-t-nh-tr-ng-th-t-nghi-p-)|
+    | TRÒ CHƠI ĐUA XE| Nguyễn Kiều Phong, Phạm Duy Hòa, Lê Quang Dũng| [:octocat:github](https://github.com/MrPhong19/Chuong-trinh-tro-choi-dua-xe.git)|
+    | DỰ ĐOÁN GIÁ NHÀ | Vũ Tuyết Anh, Nguyễn Thị Ngọc Ánh| [:octocat:github](https://github.com/Vu-Tuyet-Anh/xay-dung-mo-hinh-mang-neuron-de-du-doan-gia-nha.git)|
+    | DỰ ĐOÁN GIÁ NHÀ | Nguyễn Hương Giang, Nguyễn Xuân Ninh| [:octocat:github](https://github.com/Hgiang306/Xay_dung_mang_neuron_du_doan_gia_nha.git)|
+    | DỰ ĐOÁN KHẢ NĂNG KHÁCH HÀNG NGƯNG SỬ DỤNG DỊCH VỤ | Lê Thùy DunG, Cao Văn Thiện| [:octocat:github](https://github.com/Thuyydungz/Xay-dung-mo-hinh-mang-neuron-du-doan-kha-nang-khach-hang-ngung-su-dung-dich-vu-ngan-hang.git)|
+    | TRÒ CHƠI XẾP VÒNG | Mạc Thảo Vi, Nguyễn Thị Hảo Ngân, Nguyễn Duy Lượng| [:octocat:github](https://github.com/thaovivippro/tro-choi-xep-vong-.git)|
+    | DỰ ĐOÁN KHẢ NĂNG KHÁCH HÀNG NGƯNG SỬ DỤNG DỊCH VỤ | Nguyễn Minh Hoàng, Nguyễn Đoàn Thiện Hòa, Lê Phi Trường| [:octocat:github](https://github.com/NMH22/ai.git)|
+    | GAME MARIO| Nguyễn Đăng Huy, Nguyễn Quang Đạt, Nguyễn Trường Giang| [:octocat:github](https://github.com/DatQuang2111/Mario-GA.git)|
+
+- #### CNTT KHMT 17-01
     | Tên đề tài             | Người thực hiện     | Source code     | Nổi bật     |
     | ---------------------- | --------------------| --------------- | ----------- |
-    | Quản lý dự án | Nguyễn Thanh Tùng, Phạm Văn Phúc, Nguyễn Vũ Phúc| [:octocat:github](https://github.com/tungthanh1928/TTDN-15-04-N1)|
-    | Quản lý văn bản| Nguyễn Ngọc Anh, Phạm Duy Anh, Đinh Thế Bảo| [:octocat:github](https://github.com/ngocanhit201/TTDN-15-04-N2)|*|
-    | Quản lý phòng họp, hội trường | Nguyễn Việt Anh, Nguyễn Việt Hoàng, Nguyễn Xuân Thể| [:octocat:github](https://github.com/hoangtit123/TTDN-15-04-N3)|
-    | Quản lý chấm công | Nguyễn Mậu Lân Triệu Trí Trung Lê Đăng Duy| [:octocat:github](https://github.com/maulan1208/TTDN-15-04-N4)|
-    | Quản lý dự án | Trần Minh Quý, Nguyễn Văn Dũng, Trần Phúc Thuần| [:octocat:github](https://github.com/phucthuan12/TTDN-15-04-N5)|
-    | Quản lý tài sản | Nguyễn Ngọc Đan Trường, Dương Văn Tuân, Nguyễn Đức Hiệp| [:octocat:github](https://github.com/nguyenngocdantruong/TTDN-15-04-N6)|*|
-    | Quản lý điều hành phương tiện giao thông | Phạm Quốc Tuấn, Lưu Anh Tú, Ngô Đức Hải| [:octocat:github](https://github.com/twotee2207/TTDN-15-04-N7)|
-    | Quản lý khách hàng | Nguyễn Vũ Minh, Vũ Thành Lộc, Chu Hoàng Sơn| [:octocat:github](https://github.com/Drabula/TTDN-15-04-N8)|
-    | Quản lý nhân sự | Nguyễn Quốc Huy, Phùng Đăng Hậu, Nông Lương Hoàng| [:octocat:github](https://github.com/PhungDangHau/TTDN-CNTT15-04-N9)|
-- #### CNTT 15-05
-    | Tên đề tài             | Người thực hiện     | Source code     | Nổi bật     |
-    | ---------------------- | --------------------| --------------- | ----------- |
-    | Quản lý tài sản | Nguyễn Thế Huy Hoàng, Trịnh Văn Hiếu| [:octocat:github](https://github.com/HuyHoangFSDev/TTDN-15-05-N1)|*|
-    | Quản lý khách hàng | Nguyễn Việt Hoàng, Nguyễn Thọ Quân, Trần Nguyễn Hải Nam| [:octocat:github](https://github.com/yukiharadev/TTDN-15-05-N2)|*|
-    | Quản lý điều hành phương tiện giao thông | Lưu Trung Nghĩa, Chử Minh Đức| [:octocat:github](https://github.com/chuminhduc5/TTDN-15-05-N3)|
-    | Quản lý tài sản | Nguyễn Hải Đăng, Bùi Thế Hiếu, Nguyễn Đức Mạnh| [:octocat:github](https://github.com/Duongbe/TTDN-15-05-N4)|
-    | Quản lý văn bản | Nguyễn Hải Đăng, Bùi Thế Hiếu, Nguyễn Đức Mạnh| [:octocat:github](https://github.com/Haidang2k/TTDN-15-05-N5)|
-    | Quản lý nhân sự | Nguyễn Thị Kim Hoa, Trần Thị Ly, Đỗ Thanh Thảo| [:octocat:github](https://github.com/tranthily15/TTDN-15-05-N6.git)|
-    | Quản lý dự án | Đỗ Trọng Linh, Nguyễn Quyết Thắng, Nguyễn Văn Thuận| [:octocat:github](https://github.com/DoLinh2308/TTDN-1505-N7)|
-    | Quản lý phòng họp, hội trường | Hoàng Trung Đoàn, Đỗ Đăng Linh, Nguyễn Minh Hiếu| [:octocat:github](https://github.com/linhdang2k03/TTDN-15-05-N8)|*|
-    | Quản lý công việc | Nguyễn Thế Đức, Đặng Ninh Giang, Vũ Huy Hoàng| [:octocat:github](https://github.com/ambumin-c12/TTDN-15-05-N9)|
-    | Chấm công | Hoàng Công Minh, Lê Đức Mạnh, Phạm Văn Nam| [:octocat:github](https://github.com/ManhLe18/TTDN-15-05-N10/tree/master)|
-    | Quản lý văn bản | Đỗ Đức Công, Trần Văn Tâm, Vũ Hoàng Phong| [:octocat:github](https://github.com/Tamhss/TTDN-15-05-N11.git)|
-    | Quản lý điều hành phương tiện giao thông | Lưu Quyết Thắng, Nguyễn Trọng Đức, Lê Tuấn Anh| [:octocat:github](https://github.com/luuquyetthang/TTDN-15-05-N12)|
+    | KHÍ THẢI PHƯƠNG TIỆN | Nguyễn Quang Duy, Đinh Trọng Quỳnh, Phùng Hữu Tài| [:octocat:github](https://github.com/nguyenquangduy772005/BTL-NguyenQuangDuy.git)|
+    | TRÒ CHƠI XẾP VÒNG| Đặng Quốc An, Nguyễn Mạnh Cường, Nguyễn Đoàn Ngọc Linh| [:octocat:github](https://github.com/Dragonkin1402/nhom2)|
+    | SẮP XẾP CHỖ NGỒI TIỆC CƯỚI |Nguyễn Việt Chung, Nguyễn Văn Hải, Trần Doãn Hiếu| [:octocat:github](https://github.com/lein69/BTL-AI)|
+    | GAME MARIO |Nguyễn Đức Hoàng, Hoàng Minh Quân, Nguyễn Nhật Minh| [:octocat:github](https://github.com/HoangKHMT/gameMARIO)|
+    | RẮN SĂN MỒI | Nguyễn Minh Phượng, Nguyễn Đức Dương, Lưu Khoa Bằng| [:octocat:github](https://github.com/Dragonics/Nhom5_De1)|
+    | DỰ ĐOÁN GIÁ NHÀ | Bế Quang Hải, Nguyễn Duy Thuận| [:octocat:github](https://github.com/Quang-Hai-KHMT-1701/BTL_Tri_Tue_Nhan_Tao.git)|
+    | DỰ ĐOÁN KHẢ NĂNG KHÁCH HÀNG NGƯNG SỬ DỤNG DỊCH VỤ  | Đinh Thành An, Nguyễn Văn Tiến| [:octocat:github](https://github.com/twotee2207/TTDN-15-04-N7)|
+    | CHƯƠNG TRÌNH TẠO LỊCH HỌC TỰ ĐỘNG | Nguyễn Trung Thành, Trần Việt Vinh| [:octocat:github](https://github.com/thanh1771040022/CODE_NHOM-8)|
+    | PHÂN TÍCH TÌNH TRẠNG THẤT NGHIỆP | Nguyễn Hoàng Anh, Lưu Thanh Tùng| [:octocat:github](https://github.com/ThanhTung-KHMT-1701/ThanhTung-Journey-to-the-West)|
 
      
