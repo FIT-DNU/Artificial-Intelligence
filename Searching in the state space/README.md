@@ -4,7 +4,7 @@ Chào mừng các em đến với bài Lab đầu tiên. Trong bài này, chúng
 
 ## 📁 Cấu trúc thư mục
 - `maps/`: Chứa các bản đồ mê cung (Ma trận 2D).
-- `src/core_logic.py`: Chứa các hàm hỗ trợ xác định tọa độ và in bản đồ (Các bạn không cần sửa file này).
+- `src/core_logic.py`: Chứa các hàm hỗ trợ xác định tọa độ và in bản đồ (Các em không cần sửa file này).
 - `src/bfs_solver.py`: Code thuật toán tìm kiếm theo chiều rộng.
 - `src/dfs_solver.py`: Code thuật toán tìm kiếm theo chiều sâu.
 - `src/main.py`: File thực thi chính.
