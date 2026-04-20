@@ -5,17 +5,11 @@ def dfs(maze):
     stack = [(start, [start])]
     visited = set([start])
     
-    while stack:
-        current_node, path = stack.pop() 
-        
-        if current_node == goal:
-            print_maze_with_path(maze, path, len(visited))
-            return path
-            
-        for neighbor in get_neighbors(maze, current_node):
-            if neighbor not in visited:
-                visited.add(neighbor)
-                stack.append((neighbor, path + [neighbor]))
-                
-    print("Không tìm thấy đường đi!")
+    # TODO: Sinh viên viết tiếp vòng lặp duyệt đồ thị tại đây.
+    # Gợi ý: 
+    # - Sử dụng vòng lặp: while stack:
+    # - Hàm lấy ra từ ĐỈNH ngăn xếp (LIFO): stack.pop()
+    # - Hàm đẩy vào: stack.append()
+    
+    # ... (Sinh viên code logic Tìm kiếm theo chiều sâu ở đây) ...
     return None
