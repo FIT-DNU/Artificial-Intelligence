@@ -12,8 +12,9 @@ Chào mừng các em đến với bài Lab đầu tiên. Trong bài này, chúng
 ## 🎯 Nhiệm vụ của các em
 1. Mở file `src/bfs_solver.py` và cài đặt logic bằng cấu trúc dữ liệu **Queue** (`collections.deque`).
 2. Mở file `src/dfs_solver.py` và cài đặt logic bằng cấu trúc dữ liệu **Stack** (`list`).
-3. Chạy file `main.py` để xem Robot di chuyển.
-4. Quan sát số lượng ô đã duyệt (Visited Nodes) của BFS và DFS trên bản đồ khó, từ đó rút ra kết luận thuật toán nào tối ưu bộ nhớ hơn.
+3. Thay đổi thứ tự toán tử: Trong hàm get_neighbors, thử đổi thứ tự ưu tiên các hướng di chuyển (ví dụ ưu tiên Phải trước Lên) xem đường đi của DFS có bị thay đổi không.
+4. Chạy file `main.py` để xem Robot di chuyển.
+5. Quan sát số lượng ô đã duyệt (Visited Nodes) của BFS và DFS trên bản đồ khó, từ đó rút ra kết luận thuật toán nào tối ưu bộ nhớ hơn.
 
 ## 🚀 Cách chạy chương trình
 Hãy đảm bảo các em đang đứng ở thư mục gốc của project, mở Terminal và gõ lệnh:
